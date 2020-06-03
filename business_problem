@@ -1,0 +1,11 @@
+My fiance Cody has always wanted to open a restaurant in Durham, North Carolina. 
+This project will allow me to determine if there is demand for a specialty comfort food restaurant in Durham, 
+and select the best neighborhood for the restaurant. I will select this neighborhood by identifying the 
+concentration of both similar and different restaurants in each area of Durham. 
+The ideal location will maximize the distance of this restaurant from similar locations. 
+However, it will also minimize the distance to different types of restaurants to ensure that people who 
+dine out will come to this area.
+
+To determine whether a restaurant is similar to Cody's Kitchen, I will look for areas where restaurants are concentrated 
+together. Once I identify some clusters of neighborhoods, I will compare the style and menu of restaurants in 
+Durham's neighborhoods to Cody's Kitchen. We will write a sample menu and add to the dataset for comparison.
